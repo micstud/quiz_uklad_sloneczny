@@ -80,9 +80,13 @@ if __name__ == "__main__":
 
     l = int(l)
 
-
+    nazwy_graczy = []
     for i in range(0,l):
-        gracze[i] = Gracz(input(f"Wprowadź nazwę {i+1} gracza: "))
+        n_spr = input(f"Wprowadź nazwę {i+1} gracza: ")
+        while n_spr in nazwy_graczy:
+            n_spr = input(f"Nazwy graczy nie mogą się powtarzać! Wprowadź ponownie: ")
+        gracze[i] = Gracz(n_spr)
+        nazwy_graczy.append(n_spr)
         aktywni_gracze.append(gracze[i])
 
     with open("pytania-us.json") as questions:
@@ -126,8 +130,8 @@ for n, p in wyniki.items():
 
 
 
-#TODO ranking po wartościach punktów
-#TODO coś żeby ładnie wyglądało xD
+#TODO jak się wprowadzi 2x tę samą nazwę gracza
+
 
     #nazwa1 = input("Imię pierwszego gracza: ")
     #gracz1 = Gracz(nazwa1)
