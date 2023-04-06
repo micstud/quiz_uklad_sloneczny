@@ -1,0 +1,191 @@
+[{ 
+    "pytanie 1": "Którą planetą od słońca jest Ziemia?",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "poprawna": "a"
+},
+{
+    "pytanie 2": "Jak się nazywa piąta planeta od Słońca?",
+    "a": "Mars",
+    "b": "Jowisz",
+    "c": "Saturn",
+    "poprawna": "b"
+},
+{
+    "pytanie 3": "Jaka jest średnia temperatura na Wenus w dzień? (w stopniach Celsjusza)",
+    "a": "-1000",
+    "b": "0",
+    "c": "500",
+    "poprawna": "c"
+},
+{
+    "pytanie 4": "Ile % ziemskiej atmosfery stanowi tlen?",
+    "a": "18",
+    "b": "21",
+    "c": "23",
+    "poprawna": "b"
+},
+{
+    "pytanie 5": "W którym roku został odkryty Neptun?",
+    "a": "1846",
+    "b": "1801",
+    "c": "1753",
+    "poprawna": "a"
+},
+{
+    "pytanie 6": "Droga Mleczna to...",
+    "a": "nazwa planety",
+    "b": "nazwa układu planetarnego",
+    "c": "nazwa galaktyki",
+    "poprawna": "c"
+},
+{
+    "pytanie 7": "Gdzie znajduje się pas planetoid?",
+    "a": "między orbitą Ziemi a Księżycem",
+    "b": "między orbiami Marsa i Jowisza",
+    "c": "za orbitą Neptuna",
+    "poprawna": "b"
+},
+{
+    "pytanie 8": "Gdzie znajduje się Pas Kuipera?",
+    "a": "między orbitą Ziemi a Księżycem",
+    "b": "między orbiami Marsa i Jowisza",
+    "c": "za orbitą Neptuna",
+    "poprawna": "c"
+},
+{
+    "pytanie 9": "Do którego roku Pluton był uznawany za planetę?",
+    "a": "1999",
+    "b": "2006",
+    "c": "2014",
+    "poprawna": "b"
+},
+{
+    "pytanie 10": "Ile planet jest w układzie słonecznym?",
+    "a": "8",
+    "b": "9",
+    "c": "10",
+    "poprawna": "a"
+},
+{
+    "pytanie 11": "Ile jest gazowych olbrzymów jest w Układzie Słonecznym?",
+    "a": "2",
+    "b": "3", 
+    "c": "4",
+    "poprawna": "c"
+},
+{
+    "pytanie 12": "Ile planet skalistych ma Układ Słoneczny",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "poprawna": "a"
+},
+{
+    "pytanie 13": "Która z planet obraca się najszybciej?",
+    "a": "Merkury",
+    "b": "Uran",
+    "c": "Jowisz",
+    "poprawna": "c"
+},
+{
+    "pytanie 14": "Która z planet jest największa w Układzie Słonecznym?",
+    "a": "Neptun",
+    "b": "Uran",
+    "c": "Jowisz",
+    "poprawna": "c"
+},
+{
+    "pytanie 15": "Która z wymienionych planet obraca się w przeciwnym kierunku niż pozostale?",
+    "a": "Merkury",
+    "b": "Uran",
+    "c": "Ziemia",
+    "poprawna": "b"
+},
+{
+        "pytanie 16": "Która z wymienionych planet obraca się w przeciwnym kierunku niż pozostale?",
+    "a": "Wenus",
+    "b": "Ziemia",
+    "c": "Mars",
+    "poprawna": "a"
+},
+{
+    "pytanie 17": "Ile znanych księżyców ma Saturn?",
+    "a": "14",
+    "b": "82",
+    "c": "92",
+    "poprawna": "b"
+},
+{
+    "pytanie 18": "Ile znanych księżyców ma Jowisz?",
+    "a": "14",
+    "b": "82",
+    "c": "92",
+    "poprawna": "c"
+},
+{
+    "pytanie 19": "Ile znanych księżyców ma Neptun?",
+    "a": "14",
+    "b": "82",
+    "c": "92",
+    "poprawna": "a"
+},
+{
+    "pytanie 20": "Księżycem której planety jest Europa?",
+    "a": "Ziemi",
+    "b": "Neptuna",
+    "c": "Jowisza",
+    "poprawna": "c"
+},
+{
+    "pytanie 21": "Od kogo swoją nazwę wziął Saturn?",
+    "a": "boga wina",
+    "b": "boga przyrody",
+    "c": "boga rolnictwa",
+    "poprawna": "c"
+},
+{
+    "pytanie 21": "Ile człowiek ważący 70 kg na Ziemi ważyłby na Marsie?",
+    "a": "26 kg",
+    "b": "70 kg",
+    "c": "117 kg",
+    "poprawna": "a"
+},
+{
+    "pytanie 22": "Na jakiej planecie mieści się najwyższa góra Układu Słonecznego?",
+    "a": "na Merkurym",
+    "b": "na Wenus",
+    "c": "na Marsie",
+    "poprawna": "c"
+},
+{
+    "pytanie 23": "Która planeta Układu Słonecznego została odkryta jako ostatnia?",
+    "a": "Saturn",
+    "b": "Uran",
+    "c": "Neptun",
+    "poprawna": "c"
+},
+{
+    "pytanie 24": "Jak długo trwa rok na Neptunie?",
+    "a": "17 lat ziemskich",
+    "b": "58 lat ziemskich",
+    "c": "165 lat ziemskich",
+    "poprawna": "c"
+},
+{
+    "pytanie 25": "Ile naturalnych satelitów ma Merkury?",
+    "a": "0",
+    "b": "1",
+    "c": "3",
+    "poprawna": "a"
+},
+{
+    "pytanie 26": "Długość średnicy Księżyca odpowiada:",
+    "a": "ok. 1/8 średnicy Ziemi",
+    "b": "ok. 1/4 średnicy Ziemi",
+    "c": "ok. 1/3 średnicy Ziemi",
+    "poprawna": "b"
+}
+
+]
