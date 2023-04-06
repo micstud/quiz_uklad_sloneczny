@@ -99,11 +99,7 @@ if __name__ == "__main__":
         print(gracz.name)
         gracz.quiz_l(pytania1)
 
-    #print("Koniec quizu. Wyniki:")
     
-
-   # for gracz in aktywni_gracze:
-    #    print(f"{gracz.name}: {gracz.points}")
 
 winner = None
 best_score = None
@@ -130,21 +126,3 @@ for n, p in wyniki.items():
 
 
 
-#TODO jak się wprowadzi 2x tę samą nazwę gracza
-
-
-    #nazwa1 = input("Imię pierwszego gracza: ")
-    #gracz1 = Gracz(nazwa1)
-
-    #nazwa2 = input("Imię drugiego gracza: ")
-    #gracz2 = Gracz(nazwa2)
-
-    #with open("quiz.json") as questions:
-        #pytania1 = json.load(questions)
-
-    #gracz1.quiz(pytania1)
-    #gracz2.quiz(pytania1)
-
-        
-
-#print(f"Koniec quizu.\n{gracz1.name}: {gracz1.points}\n{gracz2.name}: {gracz2.points}")
